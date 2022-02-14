@@ -1,2 +1,0 @@
-C:\Users\uscbi\Desktop\C++\Resume Projects\atmApplication\Debug\atmApplication.exe
-C:\Users\uscbi\Desktop\C++\Resume Projects\atmApplication\Debug\atmApplication.pdb
